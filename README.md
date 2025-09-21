@@ -1,2 +1,3 @@
-# devops-test-for-college
-A repo to work on my college devops course
+# Devops
+
+CI Test: Updated README on 21-Sep-2025 to verify GitHub webhook triggers Jenkins build.
